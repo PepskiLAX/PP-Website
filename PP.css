@@ -1,5 +1,6 @@
 body{
     font-family:"Verdana"; margin-top: 20px; margin-left: 20px; margin-right: 40px;
+    background-size:100%;
     background-image: url("Sky_banner.jpg"); 
     background-color:rgba(255,255,255,0.6); 
     background-blend-mode: lighten;
